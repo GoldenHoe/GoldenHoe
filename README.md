@@ -1,4 +1,4 @@
-傻逼高中生
+**傻逼高中生**
 没有技术只有宅
 <!---
 GoldenHoe/GoldenHoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
