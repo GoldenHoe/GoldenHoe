@@ -1,4 +1,5 @@
-# 致敬传奇耐改王GoldenHoe/README.md  傻逼高中生 没有技术只有宅
+# 致敬传奇耐改王GoldenHoe/README.md
+# 傻逼高中生 没有技术只有宅
 >[!Important]
 >本人不定时发疯
 ### 年龄
