@@ -1,5 +1,5 @@
 # 致敬传奇耐改王GoldenHoe/README.md
-# Hello 🤗 I'm Golden_Hoe
+# Hi!🤗 I'm Golden_Hoe
 >[!Important]
 >本人不定时发疯(鉴定过，是假的  
 ### 年龄
