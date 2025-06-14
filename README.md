@@ -18,9 +18,8 @@
 ### 居住地🌏
 >Sichuan,China
 ### 成分😎
->这是普通高中学的化学实验室
-
-
+>#### 这是普通高中学的化学实验室
+>
 >Python
 >
 >QEMU
@@ -38,6 +37,11 @@
 >Arknights
 >
 >BlueArchieve
+
+## 顺带一提
+这是桑葚，她很可爱。
+![立绘_桑葚_1](https://github.com/user-attachments/assets/53e4725a-4e43-4749-b337-a3c6c74298b0)
+
 
 <!---
 GoldenHoe/GoldenHoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
