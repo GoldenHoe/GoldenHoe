@@ -38,6 +38,15 @@
 >
 >BlueArchieve
 
+### 你能在什么地方找到随机出现的Golden_Hoe
+>Bilibili(Golden_Hoe)
+>
+>X(@Leo167120)
+>
+>Instagram(@goldenhoelee)
+>
+>Discord(@shiroko1024)
+
 ## 顺带一提
 这是桑葚，她很可爱。
 ![立绘_桑葚_1](https://github.com/user-attachments/assets/53e4725a-4e43-4749-b337-a3c6c74298b0)
