@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Golden_Hoe;You+can+find+me+anywhere（?)](https://git.io/typing-svg)
 
->[!Important]
+>[!Warning]
 >本人不定时发疯(鉴定过，是假的  
 >![6444193f7305btTu](https://github.com/user-attachments/assets/872e460b-ae92-44f3-a9ba-b81e97688517)
 
