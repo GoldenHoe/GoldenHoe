@@ -7,7 +7,7 @@
 >本人不定时发疯(鉴定过，是假的  
 >![6444193f7305btTu](https://github.com/user-attachments/assets/872e460b-ae92-44f3-a9ba-b81e97688517)
 
-### 《你觉得我有多勤奋》
+### 《肺雾》
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldenHoe)](https://github.com/anuraghazra/github-readme-stats)
 ![1](https://github.com/user-attachments/assets/a9b48eea-8a64-4a39-ad75-6b58b472061e)
 
