@@ -1,4 +1,7 @@
 # Hi!🤗 I'm Golden_Hoe
+
+## 🚧正在读高三，将暂时停止对MCSEasy和OpenDroidChat的开发工作，高考后再见👋
+
 ### ✋😭✋我不是皇家翻译官
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Golden_Hoe;You+can+find+me+anywhere（?)](https://git.io/typing-svg)
