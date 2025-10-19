@@ -39,7 +39,11 @@
 >
 >Arknights
 >
->BlueArchieve
+>BlueArchive
+>
+>Kotlin
+>
+>Material Design
 
 ### 你能在什么地方找到随机出现的Golden_Hoe
 >Bilibili(Golden_Hoe)
