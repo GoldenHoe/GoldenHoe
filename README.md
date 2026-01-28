@@ -16,34 +16,26 @@
 ![1](https://github.com/user-attachments/assets/a9b48eea-8a64-4a39-ad75-6b58b472061e)
 
 ### 年龄
->无可奉告  
+<img width="695" height="71" alt="image" src="https://github.com/user-attachments/assets/d062f3ec-a33f-4b4e-a5df-9d16e7caf217" />
+
 ### 性别
 >男
 ### 居住地🌏
 >Sichuan,China
 ### 成分😎
 >#### 这是普通高中学的化学实验室
->
->Python
->
->QEMU
->
->WSA
->
->HTML
->
->Minecraft
->
->ETS2
->
->War Thunder
->
->Arknights
->
->BlueArchive
->
+>Python  
 >Kotlin
->
+>QEMU  
+>WSA  
+>HTML  
+>Minecraft  
+>ETS2  
+>War Thunder  
+>Arknights  
+>ENDFIELD  
+>BlueArchive  
+>Kotlin  
 >Material Design
 
 ### 你能在什么地方找到随机出现的Golden_Hoe
