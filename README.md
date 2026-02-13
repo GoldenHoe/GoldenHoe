@@ -12,7 +12,7 @@
 >![6444193f7305btTu](https://github.com/user-attachments/assets/872e460b-ae92-44f3-a9ba-b81e97688517)
 
 ### 《肺雾》
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldenHoe)](https://github.com/anuraghazra/github-readme-stats)
+[![GoldenHoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldenHoe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![1](https://github.com/user-attachments/assets/a9b48eea-8a64-4a39-ad75-6b58b472061e)
 
 ### 年龄
@@ -23,20 +23,17 @@
 ### 居住地🌏
 >蜀地四水汇流之处，天府之芯，锦城是也。  
 ### 成分😎
->#### 这是普通高中学的化学实验室
->Python  
->Kotlin
->QEMU  
->WSA  
->HTML  
->Minecraft  
->ETS2  
->War Thunder  
->Arknights  
->ENDFIELD  
->BlueArchive  
->Kotlin  
->Material Design
+#### 技术栈
+**语言**  
+[![Lang](https://skillicons.dev/icons?i=python,kotlin,css,html,md&theme=light)](https://skillicons.dev)  
+**库**  
+[![Package](https://skillicons.dev/icons?i=ktor,qt,pytorch,materialdesign&theme=light)](https://skillicons.dev)
+
+#### 开发工具
+**IDEs**  
+[![Dev Tools](https://skillicons.dev/icons?i=androidstudio,idea,pycharm,visualstudio,vscode&theme=light)](https://skillicons.dev)  
+**编译/CI-CD工具**  
+[![Dev Tools](https://skillicons.dev/icons?i=gradle,githubactions,git,vim&theme=light)](https://skillicons.dev)  
 
 ### 你能在什么地方找到随机出现的Golden_Hoe
 >Bilibili(Golden_Hoe)
