@@ -13,6 +13,9 @@
 
 ### 《肺雾》
 [![GoldenHoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldenHoe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenHoe&hide_title=true&hide_border=true&layout=compact&langs_count=6)
+
 ![1](https://github.com/user-attachments/assets/a9b48eea-8a64-4a39-ad75-6b58b472061e)
 
 ### 年龄
