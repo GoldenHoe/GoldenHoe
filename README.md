@@ -1,11 +1,9 @@
-# Hi!🤗 I'm Golden_Hoe
-
-## ♿冲刺♿冲刺♿冲
-## 报告长官，没有停止开发的义务
-
-### ✋😭✋我不是皇家翻译官
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Golden_Hoe;You+can+find+me+anywhere（?)](https://git.io/typing-svg)
+<div align="center">
+  <h1>Hi!🤗 I'm Golden_Hoe</h1>
+  <h5>高三学生、业余Python/Kotlin开发者，在开源社区享有“GoldenHoe是谁啊没听说过”的盛名。</h5>
+  <h3>♿冲刺♿冲刺♿冲</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74F7D8&width=435&lines=Hi!+I'm+GoldenHoe!;You+can+find+me+anywhere+(%3F" alt="Typing SVG" /></a>
+</div>
 
 >[!Warning]
 >本人不定时发疯(鉴定过，是假的  
@@ -35,8 +33,8 @@
 #### 开发工具
 **IDEs**  
 [![Dev Tools](https://skillicons.dev/icons?i=androidstudio,idea,pycharm,visualstudio,vscode&theme=light)](https://skillicons.dev)  
-**编译/CI-CD工具**  
-[![Dev Tools](https://skillicons.dev/icons?i=gradle,githubactions,git,vim&theme=light)](https://skillicons.dev)  
+**编译/CI-CD/版本控制工具**  
+[![Dev Tools](https://skillicons.dev/icons?i=gradle,githubactions,git&theme=light)](https://skillicons.dev)  
 
 ### 你能在什么地方找到随机出现的Golden_Hoe
 >Bilibili(Golden_Hoe)
