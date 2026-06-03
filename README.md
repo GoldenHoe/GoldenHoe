@@ -49,6 +49,10 @@
 给我玩明日方舟😡🫵
 ![Arknights_Account](./images/aknac.png)
 
+
+## My GnuPG Public Key
+FINGERPRINT: 4900 8F79 0CDB B34E C1D2  6A82 CE50 A883 DE74 5329    
+FILE: [GoldenHoe_pub.asc](./gpg-pubkey/GoldenHoe_pub.asc)
 <!---
 GoldenHoe/GoldenHoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
