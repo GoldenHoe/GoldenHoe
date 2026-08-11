@@ -27,8 +27,12 @@
 #### 技术栈
 **语言**  
 [![Lang](https://skillicons.dev/icons?i=python,kotlin,css,html,md&theme=light)](https://skillicons.dev)  
+
+正在学习   
+[![Learning](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)  
+
 **库**  
-[![Package](https://skillicons.dev/icons?i=ktor,qt,pytorch,materialdesign&theme=light)](https://skillicons.dev)
+[![Lib](https://skillicons.dev/icons?i=ktor,qt,pytorch,materialdesign&theme=light)](https://skillicons.dev)
 
 #### 开发工具
 **IDEs**  
