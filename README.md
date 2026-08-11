@@ -37,8 +37,6 @@
 #### 开发工具
 **IDEs**  
 [![Dev Tools](https://skillicons.dev/icons?i=androidstudio,idea,pycharm,visualstudio,vscode&theme=light)](https://skillicons.dev)  
-**编译/CI-CD/版本控制工具**  
-[![Dev Tools](https://skillicons.dev/icons?i=gradle,githubactions,git&theme=light)](https://skillicons.dev)  
 
 ### 你能在什么地方找到随机出现的Golden_Hoe
 >Bilibili(Golden_Hoe)
