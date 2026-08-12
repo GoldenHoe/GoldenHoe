@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi!🤗 I'm Golden_Hoe</h1>
-  <h5>高三学生、业余Python/Kotlin开发者，在开源社区享有“GoldenHoe是谁啊没听说过”的盛名。</h5>
+  <h5>准大一学生、业余Python/Kotlin开发者，在开源社区享有“GoldenHoe是谁啊没听说过”的盛名。</h5>
   <h3>♿冲刺♿冲刺♿冲</h3>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74F7D8&width=435&lines=Hi!+I'm+GoldenHoe!;You+can+find+me+anywhere+(%3F" alt="Typing SVG" /></a>
 </div>
