@@ -51,6 +51,8 @@
 给我玩明日方舟😡🫵
 ![Arknights_Account](./images/aknac.png)
 
+> [!NOTE]
+> 头像来源：X：@KoiKoai13
 
 ## My GnuPG Public Key
 FINGERPRINT: 4900 8F79 0CDB B34E C1D2  6A82 CE50 A883 DE74 5329    
